@@ -53,8 +53,6 @@ begin
 end
 endmodule
 ```
- 
-
 Developed by:Ashika TR RegisterNumber:24900481
 
 
